@@ -11,7 +11,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na SPTech  
 💻 Interesse em desenvolvimento de software, especialmente back-end  
 🚀 Experiência com agilidade, gestão de fluxo e apoio a times de tecnologia  
-👩🏻‍💻 Gosto de jogar, ouvir musica e ler!
+🎮 Gosto de jogar, ouvir música e ler!
 
 > 📦 Este é o meu novo perfil. Meus projetos anteriores estão sendo migrados da conta [LuizaVP](https://github.com/LuizaVP).
 
@@ -26,16 +26,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/G grade/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizaaVP)
 
 ## Metodologias e conhecimentos
 
 - Scrum, Kanban e Scrumban
-- Gestão de backlog e facilitação de cerimônias
+- Gestão de backlog e facilitaçãoe facilitação de cerimônias
 - Lead Time, Cycle Time, Throughput, WIP e SLA
 - APIs REST e arquitetura de aplicações
 - Git, GitHub, Azure DevOps, Jira e Miro
