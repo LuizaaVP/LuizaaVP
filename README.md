@@ -34,11 +34,11 @@
 
 <div align="center">
 
-![Estatísticas da Luiza](https://github-readme-stats.vercel.app/api?username=LuizaaVP&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br)
+![Estatísticas da Luiza](https://github-readme-stats.vercel.app/api?username=LuizaaVP&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaaVP&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaaVP&layout=compact&theme=tokyonight&locale=pt-br)
+
 </div>
-
 ## Metodologias e conhecimentos
 
 - Scrum, Kanban e Scrumban
