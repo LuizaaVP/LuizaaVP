@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Luiza! 💜
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Desenvolvedora+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+React;Agilidade+%7C+Scrum+%7C+Kanban)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Agilidade;Desenvolvimento;Java+%7C+Spring+Boot+%7C+React)](https://git.io/typing-svg)
 
 </div>
 
